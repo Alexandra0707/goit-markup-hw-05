@@ -470,11 +470,9 @@ img {
 
 .footer-form {
   display: flex;
-}
-
-.footer-mail {
   gap: 24px;
 }
+
 .footer-input {
   width: 264px;
   height: 40px;
@@ -493,6 +491,7 @@ img {
 }
 
 .footer-btn {
+  min-width: 165px;
   height: 40px;
   display: flex;
   justify-content: center;
